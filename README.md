@@ -21,9 +21,13 @@ Select the action you want to perform.
 2. Subtraction
 3. Multiplication
 4. Division
+   
 Make your choice (1/2/3/4): 1
+
 Enter the first number: 5
+
 Enter the second number: 10
+
 Answer: 15.0
 
 # Functions
