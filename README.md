@@ -42,4 +42,4 @@ Python 3.x
 3. Run the script using the following command:
    python calculator.py
 
-Enjoy using the calculator!   
+ Enjoy using the calculator!   
