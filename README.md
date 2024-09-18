@@ -2,10 +2,10 @@
 This is a simple calculator program written in Python. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 # Features
--Addition: Adds two numbers.
--Subtraction: Subtracts the second number from the first.
--Multiplication: Multiplies two numbers.
--Division: Divides the first number by the second. Note: The program handles division by zero with an error message.
+1. Addition: Adds two numbers.
+2. Subtraction: Subtracts the second number from the first.
+3. Multiplication: Multiplies two numbers.
+4. Division: Divides the first number by the second. Note: The program handles division by zero with an error message.
 
 # How It Works
 When you run the program, it prompts the user to:
@@ -27,11 +27,11 @@ Enter the second number: 10
 Answer: 15.0
 
 # Functions
--add_numbers(a, b): Returns the sum of two numbers.
--subtraction(a, b): Returns the difference between two numbers.
--multiplication(a, b): Returns the product of two numbers.
--division(a, b): Returns the quotient of two numbers (prints an error message if division by zero).
--calculator(): The main function that runs the program and handles user input.
+1. add_numbers(a, b): Returns the sum of two numbers.
+2. subtraction(a, b): Returns the difference between two numbers.
+3. multiplication(a, b): Returns the product of two numbers.
+4. division(a, b): Returns the quotient of two numbers (prints an error message if division by zero).
+5. calculator(): The main function that runs the program and handles user input.
 
 # Requirements
 Python 3.x
