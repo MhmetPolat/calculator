@@ -39,7 +39,7 @@ Python 3.x
 # How to Run
 1. Install Python 3.x if not already installed.
 2. Copy the code into a Python file (e.g., calculator.py).
-3. Run the script using the following command:
+3. Run the code using the command :
    python calculator.py
 
  Enjoy using the calculator!   
